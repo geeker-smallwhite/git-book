@@ -1,19 +1,15 @@
 {
-  "name": "git-webbook",
-  "version": "1.0.0",
-  "description": "",
+  "name": "git-book",
+  "version": "0.0.1",
+  "description": "a book of git",
   "main": "index.js",
+  "repository": "geeker-smallwhite/git-book",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/geeker-smallwhite/git-webbook.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/geeker-smallwhite/git-webbook/issues"
-  },
-  "homepage": "https://github.com/geeker-smallwhite/git-webbook#readme"
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
 }
