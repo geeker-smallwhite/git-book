@@ -57,6 +57,17 @@ module.exports = {
                 '/storage-engine/git-lfs.md',
                
             ]
+          },
+          {
+            title: '第三章 git 版本管理',
+            collapsable: false,
+            sidebarDepth: 1,
+            children: [
+                '/version-manage/commit-version.md',
+                '/version-manage/branch.md',
+                '/version-manage/merge.md',
+                '/version-manage/version-modify.md',               
+            ]
           }
         ]
       
