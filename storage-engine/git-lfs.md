@@ -1,4 +1,4 @@
-### git lfs(large file storage)
+### 2.6 git lfs(large file storage)
 
 
 

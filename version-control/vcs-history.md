@@ -1,4 +1,4 @@
-### 背景
+### 1.1 背景
 
 在软件开发过程中，一般使用版本控制系统 `version control system(vcs)`  或者源代码管理工具 `source code manager(scm)` 来管理团队的代码。
 

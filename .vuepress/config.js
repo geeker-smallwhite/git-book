@@ -50,11 +50,12 @@ module.exports = {
             sidebarDepth: 1,
             children: [
                 '/storage-engine/object-db.md',
-                '/storage-engine/commit-principle.md',
-                '/storage-engine/file-details.md',
-                '/storage-engine/git-index.md',
-                '/storage-engine/git-lfs.md',
                 '/storage-engine/version-store.md', 
+                '/storage-engine/commit-principle.md',
+                '/storage-engine/git-index.md',
+                '/storage-engine/file-details.md',
+                '/storage-engine/git-lfs.md',
+               
             ]
           }
         ]
