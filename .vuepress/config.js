@@ -68,6 +68,12 @@ module.exports = {
                 '/version-manage/merge.md',
                 '/version-manage/version-modify.md',               
             ]
+          },
+          {
+            title: '参考文献',
+            collapsable: false,
+            sidebarDepth: 1,
+            path: '/refs/ref.md',
           }
         ]
       
