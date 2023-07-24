@@ -6,6 +6,7 @@
   "repository": "geeker-smallwhite/git-book",
   "scripts": {
     "dev": "vuepress dev .",
+    "prebuild":"npm install -D vuepress",
     "build": "vuepress build ."
   },
   "license": "MIT",
