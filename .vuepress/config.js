@@ -69,7 +69,8 @@ module.exports = {
                 '/version-manage/commit-version.md',
                 '/version-manage/branch.md',
                 '/version-manage/merge.md',
-                '/version-manage/version-modify.md',               
+                '/version-manage/version-modify.md',  
+                '/version-manage/comflict.md'             
             ]
           },
           {
