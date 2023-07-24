@@ -34,6 +34,7 @@ module.exports = {
           '/intro.md',
           {
             title: '第一章 什么是版本控制 ?',
+            path : '/version-control/',
             collapsable: false,
             sidebarDepth: 1,
             children: [
@@ -47,6 +48,7 @@ module.exports = {
           {
             title: '第二章 git 存储原理',
             collapsable: false,
+            path: '/storage-engine/',
             sidebarDepth: 1,
             children: [
                 '/storage-engine/object-db.md',
@@ -61,6 +63,7 @@ module.exports = {
           {
             title: '第三章 git 版本管理',
             collapsable: false,
+            path: '/version-manage/',
             sidebarDepth: 1,
             children: [
                 '/version-manage/commit-version.md',
