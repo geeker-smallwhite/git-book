@@ -5,7 +5,6 @@ module.exports = {
       
     ],
     themeConfig: {
-      
       repo: '',
       editLinks: false,
       docsDir: '',
@@ -33,16 +32,16 @@ module.exports = {
       sidebar: [
           '/intro.md',
           {
-            title: '第一章 什么是版本控制 ?',
-            path : '/version-control/',
+            title: '第一章 git 版本控制',
+            path : '/backdrop/',
             collapsable: false,
             sidebarDepth: 1,
             children: [
-                '/version-control/vcs-history.md',
-                '/version-control/version-control-concept.md',
-                '/version-control/final.md',
-                '/version-control/d-vcs.md',
-                '/version-control/repo.md',
+                '/backdrop/vcs-history.md',
+                '/backdrop/version-control-concept.md',
+                '/backdrop/final.md',
+                '/backdrop/d-vcs.md',
+                '/backdrop/repo.md',
             ]
           },
           {
