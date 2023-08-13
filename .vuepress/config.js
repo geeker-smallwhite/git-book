@@ -33,15 +33,15 @@ module.exports = {
           '/intro.md',
           {
             title: '第一章 git 版本控制',
-            path : '/backdrop/',
+            path : '/version-control/',
             collapsable: false,
             sidebarDepth: 1,
             children: [
-                '/backdrop/vcs-history.md',
-                '/backdrop/version-control-concept.md',
-                '/backdrop/final.md',
-                '/backdrop/d-vcs.md',
-                '/backdrop/repo.md',
+                '/version-control/vcs-history.md',
+                '/version-control/version-control-concept.md',
+                '/version-control/final.md',
+                '/version-control/d-vcs.md',
+                '/version-control/repo.md',
             ]
           },
           {
