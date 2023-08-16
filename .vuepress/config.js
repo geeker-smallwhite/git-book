@@ -37,7 +37,7 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 1,
             children: [
-                '/version-control/vcs-history.md',
+                '/version-control/veersion-control-reason.md',
                 '/version-control/version-control-concept.md',
                 '/version-control/final.md',
                 '/version-control/d-vcs.md',
