@@ -73,6 +73,12 @@ module.exports = {
             ]
           },
           {
+            title: '第四章 git 使用技巧',
+            collapsable: false,
+            path: '/crafty/',
+            sidebarDepth: 1,
+          },
+          {
             title: '参考文献',
             collapsable: false,
             sidebarDepth: 1,
