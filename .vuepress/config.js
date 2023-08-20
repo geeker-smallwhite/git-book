@@ -75,8 +75,12 @@ module.exports = {
           {
             title: '第四章 git 使用技巧',
             collapsable: false,
-            path: '/crafty/',
+            path: '/smart/',
             sidebarDepth: 1,
+            clildren: [
+                '/smart/smart-merge.md',
+                '/smart/smart-view.md'
+            ]
           },
           {
             title: '参考文献',
