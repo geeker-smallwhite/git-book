@@ -7,13 +7,14 @@
 git lfs 将对象库中的大文件对象替换成一种指针文件。
 
 > 指针文件不是链接文件，指针文件由三部分组成，每部分都是 key - value 的形式存储。
+> 
+> 三部分分别代表，文件规范 url ，原文件对象的 key ，原文件文件的实际大小
 
-    ```bash
+```bash
     version https://git-lfs.github.com/spec/v1
     oid sha256:5b62e134d2478ae0bbded57f6be8f048d8d916cb876f0656a8a6d1363716d999
     size 285
-    ```
-> 三部分分别代表，文件规范 url ，原文件对象的 key ，原文件文件的实际大小
+```
 
 
 
