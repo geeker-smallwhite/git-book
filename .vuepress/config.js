@@ -56,7 +56,7 @@ module.exports = {
                 '/storage-engine/git-index.md',
                 '/storage-engine/file-details.md',
                 '/storage-engine/git-lfs.md',
-               
+                '/storage-engine/create-commit-byhand.md',  
             ]
           },
           {
