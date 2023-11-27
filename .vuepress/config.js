@@ -37,11 +37,11 @@ module.exports = {
             collapsable: false,
             sidebarDepth: 1,
             children: [
-                '/version-control/veersion-control-reason.md',
-                '/version-control/version-control-concept.md',
-                '/version-control/final.md',
-                '/version-control/d-vcs.md',
-                '/version-control/repo.md',
+                '/version-control/reason.md',
+                '/version-control/concept.md',
+                '/version-control/immutable.md',
+                '/version-control/distribute.md',
+                '/version-control/repository.md',
             ]
           },
           {
@@ -50,13 +50,12 @@ module.exports = {
             path: '/storage-engine/',
             sidebarDepth: 1,
             children: [
-                '/storage-engine/object-db.md',
-                '/storage-engine/version-store.md', 
-                '/storage-engine/commit-principle.md',
-                '/storage-engine/git-index.md',
-                '/storage-engine/file-details.md',
-                '/storage-engine/git-lfs.md',
-                '/storage-engine/create-commit-byhand.md',  
+                '/storage-engine/object-database.md',
+                '/storage-engine/_index.md',
+                '/storage-engine/version-lib.md', 
+                '/storage-engine/commit-upgrade.md',
+                '/storage-engine/repository-file-details.md',
+                '/storage-engine/lfs.md',
             ]
           },
           {
