@@ -64,7 +64,7 @@ module.exports = {
             path: '/version-manage/',
             sidebarDepth: 1,
             children: [
-                '/version-manage/commit-version.md',
+                '/version-manage/commit.md',
                 '/version-manage/branch.md',
                 '/version-manage/merge.md',
                 '/version-manage/version-modify.md',  
