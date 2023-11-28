@@ -1,6 +1,6 @@
 {
   "name": "git-book",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "a book of git",
   "main": "index.js",
   "repository": "geeker-smallwhite/git-book",
